@@ -1,6 +1,6 @@
 # Homework 13.8.19
 
-ticket = (int(input('Number of tickets? ')))
+ticket = int(input('Number of tickets? '))
 price = []
 
 for i in range(1, ticket + 1):
